@@ -1,0 +1,2 @@
+stepsize = 0.001
+momentum = 0.0001
